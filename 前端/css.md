@@ -1,5 +1,3 @@
-css总结，主要是会熟练使用
-
 #### **什么是css**
 
 1：层叠样式表(cascading style sheets)
